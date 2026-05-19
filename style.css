@@ -100,3 +100,22 @@ h2 {
 .info-section {
     padding: 24px;
 }
+
+.quote-section {
+    background-color: #e5e7eb;   
+    padding: 48px;
+    text-align: center;
+}
+
+.quote {
+    font-size: 24px;
+    font-style: italic;
+    margin-bottom: 16px;
+    color: #1f2937;
+}
+
+.quote-author {
+    font-size: 18px;
+    color: #1f2937;
+    font-weight: bold;
+}
