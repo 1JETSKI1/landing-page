@@ -37,3 +37,41 @@ ul{
     justify-content: center; 
     
 }
+
+.hero {
+    display: flex;
+    padding: 48px;
+}
+
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 32px;
+    background-color: #3b82f6;
+    color: #e5e7eb;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-top: 16px;
+    border: none;
+}
+
+.hero-image {
+    width: 600px;
+    height: 300px;
+    margin-left: 48px;
+    background-color: #e5e7eb;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
